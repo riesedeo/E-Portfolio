@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+  <title>E-PORTFOLIO IN ICT</title>
+</head>
+<body background="C:\Users\Candice\Documents\stars.jpg">
+ <div class="marqueetext">
+  <p align="center">
+   <marquee width="1000px" direction="right" scrollamount="15" behavior="sliding" scrolldelay="0">
+    <font size="60px" face="Georgia">
+     <b>
+      <u>
+      My First Quarter in ICT
+      </u>
+     </b>
+    </font>
+   </marquee>
+  </p>
+ </div>
+<table align = "center" width = "1510 border = "3" bordercolor = "##F25278" cellpassing = "5">
+<tr>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "E-PORTFOLIO-DECASTRO.html">Home</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "AboutMe.html">About Me</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Outputs.html">Outputs</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Reflection.html">Reflection</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "First Quarter.html">My First Quarter in ICT 9 :)</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "mailto:risdc.milktea@gmail.com">Contact Me!</a></font></th>
+</tr>
+</table>
+
+<table align = "center" width = "1510 border = "3" bordercolor = "##F25278" cellpassing = "5">
+<th align="center"> Lessons </th>
+<tr>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "List.html">List</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Tables.html">Tables</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Forms.html">Forms</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Hyperlink.html">Hyperlink</a></font></th>
+</tr>
+
+</table>
+
+<table align="right" width="250" length="1000" border="3" bordercolor="__" cellpassing="10">
+<tr>
+<th bgcolor="#FC6C85"> ( •̀ ω •́ )✧ !!</th>
+</tr>
+<tr>
+<td bgcolor="#FC6C85" align="center">
+<br>
+Come Inside of My Heart - IV of Spades
+<audio controls>
+<source src="C:\Users\Candice\Downloads\IV OF SPADES - Come Inside Of My Heart (Lyrics).mp3" type="audio/mp3">
+<source src="C:\Users\Candice\Downloads\IV OF SPADES - Come Inside Of My Heart (Lyrics).mp3" type="audio/mp3">
+</audio>
+</td>
+</tr>
+</table>
+

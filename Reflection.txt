@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+  <title>E-PORTFOLIO IN ICT</title>
+</head>
+<body background="C:\Users\Candice\Documents\heart.jpg">
+ <div class="marqueetext">
+  <p align="center">
+   <marquee width="1000px" direction="right" scrollamount="15" behavior="sliding" scrolldelay="0">
+    <font size="60px" face="Georgia">
+     <b>
+      <u>
+       REFLECTION
+      </u>
+     </b>
+    </font>
+   </marquee>
+  </p>
+ </div>
+<table align = "center" width = "1510 border = "3" bordercolor = "##F25278" cellpassing = "5">
+<tr>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "E-PORTFOLIO-DECASTRO.html">Home</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "AboutMe.html">About Me</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Outputs.html">Outputs</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "Reflection.html">Reflection</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "First Quarter.html">My First Quarter in ICT 9 :)</a></font></th>
+<th bgcolor = "#F25278"><font color = "white" face = "Georgia"><a href  = "mailto:risdc.milktea@gmail.com">My Email!</a></font></th>
+</tr>
+</table>
+
+<h1 align= "center"> REFLECTION</h1>
+
+<p align="center"> My name is Cairis Aisha M. De Castro, a student from IX - Fidelity of Las Pinas City National Science High School, Batch '24 - '25! I was born at exactly 6:03 PM on the 16th of February, 2010. A little more about myself is that I really like the color pink, Rose pink to be specific. As of now, I like OPM songs and usually play them whenever I study, do chores and... Anything I do I suppose. One of my favorites is RomCom - Rob Deniel and Dilaw - Maki. RomCom's already displayed in the home page so here's Dilaw in this page!! There are some pictures of myself attached there for you to know what I look like!!  </p>
